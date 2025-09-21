@@ -12,3 +12,5 @@ Siga as instruções no notebook `notebook.ipynb` para executar o pipeline local
 Fontes sugeridas:
 - Historical Data from the Olympics — Base dos Dados (1896–2022).
 - Paris 2024 dataset — Kaggle (Paris 2024 Olympic Summer Games).
+
+by: Luis Gustavo and Kaique Olegar
