@@ -1,0 +1,18 @@
+{
+  "dataset_name": "olympics_historico",
+  "source": "Base dos Dados - Historical Data from the Olympics (1896-2022)",
+  "description": "Dados históricos olímpicos (eventos, atletas, medalhas) extraídos para uso analítico.",
+  "main_fields": [
+    "year",
+    "city",
+    "sport",
+    "event",
+    "athlete",
+    "country",
+    "medal",
+    "sex",
+    "team"
+  ],
+  "collection_date": "2025-09-20",
+  "notes": "Colocar arquivo CSV original em raw/olympics_historico.csv"
+}

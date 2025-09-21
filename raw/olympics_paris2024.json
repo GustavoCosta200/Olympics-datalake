@@ -1,0 +1,19 @@
+{
+  "dataset_name": "olympics_paris2024",
+  "source": "Kaggle - Paris 2024 Olympic Summer Games",
+  "description": "Dados da edição Paris 2024 com lista de atletas, resultados e informações de eventos.",
+  "main_fields": [
+    "year",
+    "city",
+    "sport",
+    "event",
+    "athlete",
+    "country",
+    "medal",
+    "sex",
+    "team",
+    "participants"
+  ],
+  "collection_date": "2025-09-20",
+  "notes": "Colocar arquivo CSV exportado do Kaggle em raw/olympics_paris2024.csv"
+}

@@ -1,0 +1,14 @@
+{
+  "analise_medalhas": {
+    "file": "medalhas_total_por_pais_1986_2024.csv",
+    "description": "Tabelas e gráficos de medalhas por país (1986-2024)"
+  },
+  "analise_modalidades": {
+    "file": "modalidades_crescimento_1986_2024.csv",
+    "description": "Crescimento de participantes por modalidade"
+  },
+  "analise_genero": {
+    "file": "proporcao_sexo_por_ano_e_sport.csv",
+    "description": "Proporção de atletas por sexo por esporte e ano"
+  }
+}
