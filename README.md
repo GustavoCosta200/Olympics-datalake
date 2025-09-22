@@ -42,4 +42,4 @@ Esses resultados estão disponíveis em formatos **CSV** e **Parquet** dentro da
 ## 👥 Autoria
 
 - [Luis Gustavo](https://github.com/GustavoCosta200)  
-- [Kaique Olegar](https://github.com/kaiqu3santoss)  
+- [Kaique Olegar](https://github.com/kaiqu3santos)  
