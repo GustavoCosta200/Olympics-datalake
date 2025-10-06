@@ -1,0 +1,6 @@
+{
+  "medals_summer": "D:\\olympics-datalake\\gold\\atividade2\\medals_summer_top.parquet",
+  "medals_winter": "D:\\olympics-datalake\\gold\\atividade2\\medals_winter_top.parquet",
+  "medals_total": "D:\\olympics-datalake\\gold\\atividade2\\medals_total_top.parquet",
+  "medals_continent_total": "D:\\olympics-datalake\\gold\\atividade2\\medals_continent_total.parquet"
+}

@@ -1,0 +1,24 @@
+{
+  "dataset_name": "olympics_historico",
+  "source": "Base dos Dados - Historical Data from the Olympics",
+  "rows": 316834,
+  "columns": [
+    "edition_id",
+    "country",
+    "sport",
+    "event",
+    "result_id",
+    "athlete",
+    "athlete_id",
+    "position",
+    "medal",
+    "is_team_sport",
+    "sex",
+    "country_long",
+    "year",
+    "season",
+    "medal_count",
+    "city"
+  ],
+  "collection_date": "2025-09-20"
+}

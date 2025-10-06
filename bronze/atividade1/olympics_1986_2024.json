@@ -1,0 +1,30 @@
+{
+  "dataset_name": "olympics_1986_2024",
+  "source": "concat(base_dos_dados, kaggle_paris2024)",
+  "rows": 177894,
+  "columns": [
+    "edition_id",
+    "country",
+    "sport",
+    "event",
+    "result_id",
+    "athlete",
+    "athlete_id",
+    "position",
+    "medal",
+    "is_team_sport",
+    "sex",
+    "country_long",
+    "year",
+    "season",
+    "medal_count",
+    "city",
+    "code",
+    "current",
+    "name_short",
+    "name_tv",
+    "function",
+    "nickname"
+  ],
+  "notes": "Filtrado para anos 1986-2024"
+}
