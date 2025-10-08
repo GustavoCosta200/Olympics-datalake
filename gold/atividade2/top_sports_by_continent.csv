@@ -1,61 +1,61 @@
 continent,sport,n_medals
-Africa,Athletics,220
-Africa,Football,39
-Africa,Boxing,26
-Africa,Weightlifting,15
-Africa,Taekwondo,10
-Africa,Wrestling,8
-Africa,Swimming,3
-Africa,Diving,2
-Africa,Fencing,2
-Africa,Judo,2
-Asia,Hockey,433
-Asia,Artistic Gymnastics,312
-Asia,Wrestling,300
-Asia,Judo,231
-Asia,Swimming,223
-Asia,Volleyball,204
-Asia,Short Track Speed Skating,182
-Asia,Weightlifting,171
-Asia,Table Tennis,162
-Asia,Baseball,136
-Europe,Athletics,1303
-Europe,Fencing,1272
-Europe,Rowing,1029
-Europe,Artistic Gymnastics,941
-Europe,Sailing,687
-Europe,Cross Country Skiing,661
-Europe,Football,632
-Europe,Water Polo,626
-Europe,Ice Hockey,618
-Europe,Handball,594
-North America,Athletics,1664
-North America,Swimming,1269
-North America,Ice Hockey,767
-North America,Rowing,626
-North America,Basketball,403
-North America,Football,272
-North America,Shooting,231
-North America,Baseball,228
-North America,Boxing,227
-North America,Artistic Gymnastics,207
-Oceania,Swimming,460
-Oceania,Rowing,252
-Oceania,Hockey,230
-Oceania,Athletics,121
-Oceania,Cycling Track,103
-Oceania,Sailing,91
-Oceania,Basketball,72
-Oceania,Equestrian Eventing,65
-Oceania,Softball,60
-Oceania,Canoe Sprint,57
-South America,Football,266
-South America,Volleyball,168
-South America,Hockey,104
-South America,Basketball,84
-South America,Sailing,58
-South America,Athletics,50
-South America,Boxing,44
+Africa,Athletics,264
+Africa,Boxing,60
+Africa,Swimming,30
+Africa,Weightlifting,17
+Africa,Taekwondo,12
+Africa,Wrestling,9
+Africa,Cycling Track,6
+Africa,Tennis,6
+Africa,Football,5
+Africa,Judo,4
+Asia,Wrestling,316
+Asia,Weightlifting,190
+Asia,Artistic Gymnastics,179
+Asia,Judo,172
+Asia,Swimming,136
+Asia,Boxing,123
+Asia,Shooting,91
+Asia,Athletics,89
+Asia,Diving,83
+Asia,Badminton,82
+Europe,Athletics,849
+Europe,Wrestling,559
+Europe,Fencing,482
+Europe,Alpine Skiing,412
+Europe,Cross Country Skiing,407
+Europe,Swimming,405
+Europe,Shooting,397
+Europe,Artistic Gymnastics,378
+Europe,Rowing,377
+Europe,Canoe Sprint,361
+North America,Athletics,1057
+North America,Swimming,648
+North America,Boxing,233
+North America,Wrestling,188
+North America,Diving,167
+North America,Rowing,132
+North America,Shooting,132
+North America,Artistic Gymnastics,124
+North America,Speed Skating,113
+North America,Figure Skating,83
+Oceania,Swimming,210
+Oceania,Athletics,99
+Oceania,Rowing,73
+Oceania,Cycling Track,56
+Oceania,Sailing,52
+Oceania,Canoe Sprint,31
+Oceania,Equestrian Eventing,24
+Oceania,Diving,14
+Oceania,Hockey,14
+Oceania,Shooting,13
+South America,Boxing,48
+South America,Athletics,36
+South America,Sailing,29
 South America,Judo,28
-South America,Swimming,27
-South America,Beach Volleyball,26
+South America,Swimming,21
+South America,Football,17
+South America,Weightlifting,16
+South America,Volleyball,14
+South America,Beach Volleyball,13
+South America,Shooting,12

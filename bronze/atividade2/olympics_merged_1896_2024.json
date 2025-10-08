@@ -1,1 +1,1 @@
-{"dataset":"olympics_merged","rows":328208,"columns":["edition_id","country","sport","event","result_id","athlete","athlete_id","position","medal","is_team_sport","sex","country_long","year","season","medal_count","city","code","current","name_short","name_tv","function","nickname"]}
+{"dataset":"olympics_merged","rows":229252,"columns":["edition_id","country","sport","event","result_id","athlete","athlete_id","position","medal","is_team_sport","sex","country_long","year","season","medal_count","city","code","current","name_short","name_tv","function","nickname","team"]}
